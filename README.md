@@ -21,3 +21,6 @@ We value your feedback! If you have any suggestions, comments, or encounter any 
 - Frontend: [HTML,CSS]
 - Backend: [JAVA SCRIPT]
 - API
+
+![Screenshot (90)](https://github.com/raoprashanth85/Weather_report/assets/163169359/686ca5b4-faf0-41c7-ac99-f2c3ba2bd3f3)
+
